@@ -1,0 +1,3 @@
+# sclian
+out和target/classes导入后可直接删掉
+python文件是爬取的数据直接导入到MySQL中
